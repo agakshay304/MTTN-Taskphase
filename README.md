@@ -1,17 +1,24 @@
 # studybank
 
-A new Flutter project.
+# Note
+As of now the study material (PDFs) is only in the following folder:-
+-Computer science and engineering
+    - Semester 3:
+        -3 mock pdfs
+    - Semester 4:
+         -3 mock pdfs
+- Electrical and electronics engineering
+    - Semester 5
+        -3 mock pdfs
+    - Semester 6
+        -3 mock pdfs
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Screen 1:-![Screen 1](https://user-images.githubusercontent.com/75080491/143730498-fc2ed920-3095-489d-aa92-0a723b885f3c.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+Screen 2:-![Screen 2](https://user-images.githubusercontent.com/75080491/143730515-c3fc8b47-a0a7-43e6-b5bd-05e1735da411.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Screen Recording:-
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# MTTN-Taskphase
+https://user-images.githubusercontent.com/75080491/143730523-c0d649a0-d76a-49b0-b664-a56515585747.mp4
+
